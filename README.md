@@ -47,6 +47,10 @@ A pull request (referred to as a PR) is a way for you to suggest changes to a re
 
   *cd Understand-PR-and-Github*
 
+- Now switch your branch to test
+ 
+  *git checkout test*
+  
 - Then, open the code base using the command: 
 
   *code .*
@@ -87,9 +91,8 @@ A pull request (referred to as a PR) is a way for you to suggest changes to a re
 
   * Now, push the changes using the command: 
 
-      *git push origin main*
+      *git push*
 
-**NOTE: Here 'main' means that the changes are being pushed to the main branch.**
 
 - Now, to make a pull request, head to the real repository, i.e., https://github.com/iamvs-2002/Understand-PR-and-Github and go to [PULL REQUEST](https://github.com/iamvs-2002/Understand-PR-and-Github/pulls) and click on **New Pull Request** button. Then, select compare across forks and select the forked repo in your profile as the head repository.
 
