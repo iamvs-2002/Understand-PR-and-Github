@@ -1,4 +1,4 @@
-# Understanding PR and Github
+# Understand PR and Github
 
 ## This repository is to teach you about how to start making contributions to the Open-source by making a PR.
 
@@ -91,7 +91,7 @@ A pull request (referred to as a PR) is a way for you to suggest changes to a re
 
 **NOTE: Here 'main' means that the changes are being pushed to the main branch.**
 
-- Now, to make a pull request, head to the real repository, i.e., https://github.com/iamvs-2002/Understanding-PR-and-Github and go to [PULL REQUEST](https://github.com/iamvs-2002/Understand-PR-and-Github/pulls) and click on **New Pull Request** button. Then, select compare across forks and select the forked repo in your profile as the head repository.
+- Now, to make a pull request, head to the real repository, i.e., https://github.com/iamvs-2002/Understand-PR-and-Github and go to [PULL REQUEST](https://github.com/iamvs-2002/Understand-PR-and-Github/pulls) and click on **New Pull Request** button. Then, select compare across forks and select the forked repo in your profile as the head repository.
 
 **Remember: The base repository stays the same. Then click on create!**
 
