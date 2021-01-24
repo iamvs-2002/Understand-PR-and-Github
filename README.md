@@ -46,6 +46,10 @@ A pull request (referred to as a PR) is a way for you to suggest changes to a re
 - Now, open the folder in which it has cloned, i.e. Understand-PR-and-Github, using the command: 
 
   *cd Understand-PR-and-Github*
+  
+- Now, switch your branch to test
+
+  *git checkout test*
 
 - Now switch your branch to test
  
