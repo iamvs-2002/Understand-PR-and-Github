@@ -39,13 +39,13 @@ A pull request (referred to as a PR) is a way for you to suggest changes to a re
 - Next, fork this repo as described above.
 - Then go to terminal and clone the fork to your computer by using the command: 
 
-  *git clone https://github.com/YOUR_USERNAME/Understanding-PR-and-Github.git*
+  *git clone https://github.com/YOUR_USERNAME/Understand-PR-and-Github.git*
 
     * It will take some time to clone and also, it might require you to sign in if you are a first time user.
 
-- Now, open the folder in which it has cloned, i.e. Understanding-PR-and-Github, using the command: 
+- Now, open the folder in which it has cloned, i.e. Understand-PR-and-Github, using the command: 
 
-  *cd Understanding-PR-and-Github*
+  *cd Understand-PR-and-Github*
 
 - Then, open the code base using the command: 
 
