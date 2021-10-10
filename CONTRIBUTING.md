@@ -15,3 +15,8 @@ Name: [Hammed Babatunde](https://github.com/HammedBabatunde) <br/>
 Age: 20 <br/>
 About: Data Analyst <br/>
 Country: Nigeria <br/>
+
+Name: [Mohit](https://github.com/mohitahlawat2001)
+Age: 19 <br/>
+About: learning web devevlement  , somophore </br>
+Country: india <br/>
