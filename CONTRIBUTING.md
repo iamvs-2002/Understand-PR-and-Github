@@ -31,3 +31,7 @@ Age: 22 <br/>
 About: MuleSoft Developer  , somophore </br>
 Country: india <br/>
 
+Name: [Igbinosa Iwinosa](https://github.com/Favourene) <br/>
+Age: 23 <br/>
+About: Front End Developer and Designer <br/>
+Country: Nigeria <br/>
