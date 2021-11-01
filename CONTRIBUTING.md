@@ -31,6 +31,12 @@ Age: 22 <br/>
 About: MuleSoft Developer  , somophore </br>
 Country: india <br/>
 
+
+Name: [Ephraim](https://github.com/Leo-Chan01)
+Age: 19 <br/>
+About: Software Developer </br>
+Country: Nigeria <br/>
+
 Name: [Igbinosa Iwinosa](https://github.com/Favourene) <br/>
 Age: 23 <br/>
 About: Front End Developer and Designer <br/>
